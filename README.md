@@ -13,7 +13,7 @@
 ## Usage
 
 1. **Install the Software**:
-   - Download the latest version of the `GithubF2A` installation package from [GitHub Releases](https:#).
+   - Download the latest version of the `GithubF2A` installation package from [GitHub Releases](https://github.com/Amitabha2018/GithubF2A/releases).
    - This software supports 64-bit Windows 10 systems.
 
 2. **Configure GitHub Two-Factor Authentication**:
@@ -56,7 +56,7 @@ I hope this `README.md` file will help GitHub users better understand and utiliz
 
 1. **安装软件**：
 
-   - 从 [GitHub Releases](https://kimi.moonshot.cn/chat/cuhlbermv21lf1vqnlig#) 下载最新版本的 `GithubF2A` 安装包。
+   - 从 [GitHub Releases](https://github.com/Amitabha2018/GithubF2A/releases) 下载最新版本的 `GithubF2A` 安装包。
    - 支持Win10 64位系统。
 
 2. **配置 GitHub 二步验证**：
