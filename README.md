@@ -1,6 +1,44 @@
-# GithubF2A
-Assist with github verification
+# GitHubF2A
 
+## Introduction
+
+`GithubF2A` is a software designed to assist with GitHub's two-factor authentication (2FA) process. It aims to help users complete GitHub's 2FA more conveniently by scanning the QR code provided by the GitHub website or analyzing a locally stored QR code. Users can quickly generate and refresh verification codes, enhancing the security of their login process.
+
+## Features
+
+- **Scan QR Code**: Users can click the "Scan" button to directly capture the QR code provided by GitHub's official website. The software will automatically recognize and analyze it.
+- **Upload Local QR Code**: Click the "Upload" button to select a locally stored QR code image. The software will analyze and extract relevant information.
+- **Refresh Verification Code**: Click the "Refresh" button to generate a new verification code in real-time, ensuring that the latest verification information is used for each login.
+
+## Usage
+
+1. **Install the Software**:
+   - Download the latest version of the `GithubF2A` installation package from [GitHub Releases](https:#).
+   - This software supports 64-bit Windows 10 systems.
+
+2. **Configure GitHub Two-Factor Authentication**:
+   - Log in to your GitHub account and go to the [Two-Factor Authentication settings page](https://github.com/settings/two_factor_authentication).
+   - Enable two-factor authentication and select "Use an authentication app."
+   - GitHub will generate a QR code for association with the authentication app.
+
+3. **Use `GithubF2A`**:
+   - Open the `GithubF2A` software.
+   - Click the "Scan" button. After capturing the QR code, the software will automatically analyze the QR code from GitHub's website and generate the verification code.
+      ![image-20250205202648368](assets/image-20250205202648368.png)
+    - Alternatively, click the "Upload" button to select a locally saved QR code image.
+      ![image-20250205201817666](assets/image-20250205201817666.png)
+       The software will analyze and extract the relevant information from the image.
+      ![image-20250205202046760](assets/image-20250205202046760.png)
+   - Click the "Refresh" button to generate a new verification code.
+## Notes
+
+- **Security**: Ensure you are using `GithubF2A` in a secure network environment to prevent the leakage of QR code information.
+- **QR Code Format**: Only standard QR code formats are supported. Other types of barcodes or custom formats are not supported.
+- **Software Updates**: Regularly check for software updates to get the latest features and security fixes.
+
+- **v1.0.0**: Initial release, supporting basic QR code scanning, uploading, and verification code refresh features.
+
+I hope this `README.md` file will help GitHub users better understand and utilize GitHub's two-factor authentication with the assistance of `GithubF2A`. My goal is to make the process as convenient as possible for everyone. If you have any suggestions for improvement or encounter any issues, please feel free to let us know. Your feedback is highly appreciated!
 
 # GithubF2A
 
